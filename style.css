@@ -40,7 +40,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #FF8C00;
     display: block;
     margin: auto;
     transition: 0.5s;
