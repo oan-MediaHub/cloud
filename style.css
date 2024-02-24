@@ -6,6 +6,7 @@
 .copy h3{
     top: 100%;
     left: 50%;
+    color: #fff;
 }
 .header{
     min-height: 100vh;
