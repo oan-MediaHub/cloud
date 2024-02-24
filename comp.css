@@ -161,6 +161,7 @@ nav.fa{
 @media(max-width: 992px){
     .back-pick img{
         height: 50%;
+        left: 0;
     }
     .nav-links-comp,
     .hero-btn-comp{
