@@ -117,8 +117,7 @@ nav.fa{
     .back-pick img{
         height: 50%;
     }
-    .nav-links,
-    .hero-btn{
+    .nav-links{
         display: none;
     }
     .toggle_btn{
