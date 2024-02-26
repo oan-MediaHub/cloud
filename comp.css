@@ -166,7 +166,7 @@ nav.fa{
     cursor: pointer;
     z-index: 3;
 }
-.hero-btn-comp1:hover{
+.hero-btn-comp2:hover{
     border: 1px solid #FF8C00;
     background: #000000;
     transition: 0.75s;
