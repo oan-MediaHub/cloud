@@ -152,6 +152,26 @@ nav.fa{
     transition: 0.75s;
 
 }
+.hero-btn-comp2{
+    top: 60%;
+    left: 5%;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 12px 34px;
+    font-size: 20px;
+    background: transparent;
+    position: absolute;
+    cursor: pointer;
+    z-index: 3;
+}
+.hero-btn-comp1:hover{
+    border: 1px solid #FF8C00;
+    background: #000000;
+    transition: 0.75s;
+
+}
 .toggle_btn_comp{
     display: none
 }
