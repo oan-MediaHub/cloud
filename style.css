@@ -120,7 +120,27 @@ nav.fa{
 .toggle_btn{
     display: none;
 }
+.button{
+    bottom: 20px; 
+    left: 20px; 
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #ffffff;
+    padding: 25px 40px;
+    font-size: 20px;
+    background: transparent;
+    position:absolute;
+    cursor: pointer;
+    border-radius: 30px;
 
+}
+.button:hover{
+    background: #7b0404;
+    transition: 0.75s;
+
+}
+   
 
 @media(max-width: 992px){
     .back-pick img{
