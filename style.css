@@ -210,7 +210,21 @@ nav.fa{
         justify-content: space-between;
         align-items: center;
     }
+    .button{
+        bottom: 35%; 
+        left:35%;
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        border: 1px solid #ffffff;
+        padding: 25px 40px;
+        font-size: 35px;
+        background: transparent;
+        position:absolute;
+        cursor: pointer;
+        border-radius: 30px;
     
+    }
 }
 
 
